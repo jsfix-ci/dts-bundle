@@ -550,6 +550,7 @@ describe('dts bundle', function () {
 			'lib/subC.d.ts',
 			'lib/subD.d.ts',
 			'lib/subE.d.ts',
+			'lib/subF.d.ts',
 			'sub.d.ts'
 		]);
 		assert.strictEqual(getFile(actualFile), getFile(expectedFile));
@@ -597,6 +598,7 @@ describe('dts bundle', function () {
 			'lib/subC.d.ts',
 			'lib/subD.d.ts',
 			'lib/subE.d.ts',
+			'lib/subF.d.ts',
 			'sub.d.ts'
 		]);
 		assert.strictEqual(getFile(actualFile), getFile(expectedFile));
