@@ -16,10 +16,10 @@
   "bin": {
     "dts-bundle": "./lib/dts-bundle.js"
   },
-  "homepage": "https://github.com/qiwi/dts-bundle",
+  "homepage": "https://github.com/qiwi-forks/dts-bundle",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiwi/dts-bundle.git"
+    "url": "https://github.com/qiwi-forks/dts-bundle.git"
   },
   "author": {
     "name": "Bart van der Schoor",
@@ -28,11 +28,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/qiwi/dts-bundle/master/LICENSE-MIT.txt"
+      "url": "https://raw.github.com/qiwi-forks/dts-bundle/master/LICENSE-MIT.txt"
     }
   ],
   "bugs": {
-    "url": "https://github.com/qiwi/dts-bundle/issues"
+    "url": "https://github.com/qiwi-forks/dts-bundle/issues"
   },
   "engines": {
     "node": ">= 12"
