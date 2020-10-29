@@ -33,3 +33,4 @@ dump/
 _tmp.*
 
 npm-debug.log
+docs

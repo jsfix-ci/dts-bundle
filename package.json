@@ -6,6 +6,12 @@
     "access": "public"
   },
   "description": "Export TypeScript .d.ts files as an external module definition",
+  "scripts": {
+    "docs": "mkdir -p docs && cp ./README.md ./docs/README.md",
+    "build": "npm run docs",
+    "test": "grunt test",
+    "postupdate": "npm i && npm audit fix && npm run test"
+  },
   "keywords": [
     "typescript",
     "definition",
@@ -36,10 +42,6 @@
   },
   "engines": {
     "node": ">= 12"
-  },
-  "scripts": {
-    "test": "grunt test",
-    "postupdate": "npm i && npm audit fix && npm run test"
   },
   "main": "./index.js",
   "dependencies": {
