@@ -1,3 +1,10 @@
+## [0.7.5](https://github.com/qiwi-forks/dts-bundle/compare/v0.7.4...v0.7.5) (2021-03-16)
+
+
+### Bug Fixes
+
+* **pkg:** up deps, fix vuls ([e230e70](https://github.com/qiwi-forks/dts-bundle/commit/e230e70cc836338a628683f0e4f15f418b967a1a))
+
 ## [0.7.4](https://github.com/qiwi-forks/dts-bundle/compare/v0.7.3...v0.7.4) (2020-10-29)
 
 
